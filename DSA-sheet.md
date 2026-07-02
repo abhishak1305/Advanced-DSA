@@ -53,9 +53,11 @@
 
 ## 7. Bit Manipulation
 
-| Topic | GeeksforGeeks |
-| :--- | :--- |
-| Check if Even or Odd | [GFG](https://www.geeksforgeeks.org/check-if-a-number-is-odd-or-even-using-bitwise-operators/) |
-| Check Multiple of 2 | [GFG](https://www.geeksforgeeks.org/check-if-a-number-is-power-of-2/) |
-| K-th Bit is Set or Not | [GFG](https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/) |
-| Set the i-th Bit | [GFG](https://www.geeksforgeeks.org/set-clear-and-toggle-a-given-bit-of-a-number-in-c/) |
+| Topic | LeetCode | GeeksforGeeks |
+| :--- | :--- | :--- |
+| Check if a number is even or odd | — | [GFG](https://www.geeksforgeeks.org/check-if-a-number-is-odd-or-even-using-bitwise-operators/) |
+| Multiple of 2 | — | [GFG](https://www.geeksforgeeks.org/program-to-find-whether-a-given-number-is-power-of-2/) |
+| K-th bit is set or not | — | [GFG](https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/) |
+| Set the ith bit | — | [GFG](https://www.geeksforgeeks.org/set-k-th-bit-given-number/) |
+| 136. Single Number | [LeetCode](https://leetcode.com/problems/single-number/) | [GFG](https://www.geeksforgeeks.org/find-the-element-that-appears-once/) |
+| 191. Number of 1 Bits | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | [GFG](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/) |
