@@ -56,7 +56,7 @@
 | Topic | LeetCode | GeeksforGeeks |
 | :--- | :--- | :--- |
 | Check if a number is even or odd | — | [GFG](https://www.geeksforgeeks.org/check-if-a-number-is-odd-or-even-using-bitwise-operators/) |
-| Multiple of 2 | — | [GFG](https://www.geeksforgeeks.org/program-to-find-whether-a-given-number-is-power-of-2/) |
+| Power of 2 | — | [GFG](https://www.geeksforgeeks.org/program-to-find-whether-a-given-number-is-power-of-2/) |
 | K-th bit is set or not | — | [GFG](https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/) |
 | Set the ith bit | — | [GFG](https://www.geeksforgeeks.org/set-k-th-bit-given-number/) |
 | 136. Single Number | [LeetCode](https://leetcode.com/problems/single-number/) | [GFG](https://www.geeksforgeeks.org/find-the-element-that-appears-once/) |
