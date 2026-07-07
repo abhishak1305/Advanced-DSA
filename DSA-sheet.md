@@ -61,3 +61,21 @@
 | Set the ith bit | — | [GFG](https://www.geeksforgeeks.org/set-k-th-bit-given-number/) |
 | 136. Single Number | [LeetCode](https://leetcode.com/problems/single-number/) | [GFG](https://www.geeksforgeeks.org/find-the-element-that-appears-once/) |
 | 191. Number of 1 Bits | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | [GFG](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/) |
+| Xor in a range | — | [GFG](https://www.geeksforgeeks.org/competitive-programming/bitwise-xor-of-all-numbers-in-a-given-range/) |
+| 137. Single Number II | [LeetCode](https://leetcode.com/problems/single-number-ii/) | [GFG](https://www.geeksforgeeks.org/find-the-element-that-appears-once-where-every-other-element-occurs-thrice/) |
+
+## 8. Binary Search on Answers
+
+| Topic | LeetCode | GeeksforGeeks |
+| :--- | :--- | :--- |
+| Aggressive Cows | — | [GFG](https://www.geeksforgeeks.org/assign-stalls-to-k-cows-to-maximize-the-minimum-distance-between-them/) |
+| 1283. Find the Smallest Divisor Given a Threshold | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [GFG](https://www.geeksforgeeks.org/smallest-divisor-for-sum-constraint-in-array-division/) |
+| 875. Koko Eating Bananas | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | [GFG](https://www.geeksforgeeks.org/koko-eating-bananas/) |
+| 69. Sqrt(x) | [LeetCode](https://leetcode.com/problems/sqrtx/) | [GFG](https://www.geeksforgeeks.org/square-root-of-an-integer/) |
+
+## 9. Segment Tree
+
+| Topic | LeetCode | GeeksforGeeks |
+| :--- | :--- | :--- |
+| Building | — | [GFG](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/) |
+| Point update | — | [GFG](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/) |
