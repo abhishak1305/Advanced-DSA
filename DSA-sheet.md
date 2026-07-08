@@ -84,5 +84,5 @@
 
 | Topic | LeetCode | GeeksforGeeks |
 | :--- | :--- | :--- |
-| 98. Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree/ | https://www.geeksforgeeks.org/dsa/a-program-to-check-if-a-binary-tree-is-bst-or-not/ |
-| 99. Recover Binary Search Tree | https://leetcode.com/problems/recover-binary-search-tree/ | https://www.geeksforgeeks.org/dsa/fix-two-swapped-nodes-of-bst/ |
+| 98. Validate Binary Search Tree | [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/) | [GFG](https://www.geeksforgeeks.org/dsa/a-program-to-check-if-a-binary-tree-is-bst-or-not/) |
+| 99. Recover Binary Search Tree | [Leetcode](https://leetcode.com/problems/recover-binary-search-tree/) | [GFG](https://www.geeksforgeeks.org/dsa/fix-two-swapped-nodes-of-bst/) |
