@@ -86,3 +86,5 @@
 | :--- | :--- | :--- |
 | 98. Validate Binary Search Tree | [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/) | [GFG](https://www.geeksforgeeks.org/dsa/a-program-to-check-if-a-binary-tree-is-bst-or-not/) |
 | 99. Recover Binary Search Tree | [Leetcode](https://leetcode.com/problems/recover-binary-search-tree/) | [GFG](https://www.geeksforgeeks.org/dsa/fix-two-swapped-nodes-of-bst/) |
+| 1008. Construct Binary Search Tree from Preorder Traversal | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [GFG](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversal/) |
+| 1382. Balance a Binary Search Tree | [LeetCode](https://leetcode.com/problems/balance-a-binary-search-tree/) | [GFG](https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/) |
