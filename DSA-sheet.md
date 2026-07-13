@@ -80,7 +80,7 @@
 | Building | — | [GFG](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/) |
 | Point update | — | [GFG](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/) |
 
-## 9. Binary Tree & BST
+## 10. Binary Tree & BST
 
 | Topic | LeetCode | GeeksforGeeks |
 | :--- | :--- | :--- |
@@ -88,3 +88,12 @@
 | 99. Recover Binary Search Tree | [Leetcode](https://leetcode.com/problems/recover-binary-search-tree/) | [GFG](https://www.geeksforgeeks.org/dsa/fix-two-swapped-nodes-of-bst/) |
 | 1008. Construct Binary Search Tree from Preorder Traversal | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [GFG](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversal/) |
 | 1382. Balance a Binary Search Tree | [LeetCode](https://leetcode.com/problems/balance-a-binary-search-tree/) | [GFG](https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/) |
+
+## 11. Graphs
+
+| Topic | LeetCode | GeeksforGeeks |
+| :--- | :--- | :--- |
+| Graph Adjacency List Traversal | — | [GFG](https://www.geeksforgeeks.org/adjacency-list-meaning-definition-in-dsa/) |
+| BFS | [LeetCode](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [GFG](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) |
+| DFS | [LeetCode](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [GFG](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) |
+| Number of Connected Components | [LeetCode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [GFG](https://www.geeksforgeeks.org/program-to-count-number-of-connected-components-in-an-undirected-graph/) |
