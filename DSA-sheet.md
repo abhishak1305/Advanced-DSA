@@ -97,3 +97,8 @@
 | BFS | [LeetCode](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [GFG](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) |
 | DFS | [LeetCode](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [GFG](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) |
 | Number of Connected Components | [LeetCode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [GFG](https://www.geeksforgeeks.org/program-to-count-number-of-connected-components-in-an-undirected-graph/) |
+| Minimum multiplication to reach end | — | [GFG](https://www.geeksforgeeks.org/dsa/minimum-steps-to-reach-end-from-start-by-performing-multiplication-and-mod-operations-with-array-elements/) |
+| Shortest Path in unweighted graph | — | [GFG](https://www.geeksforgeeks.org/shortest-path-unweighted-graph/) |
+| Bipartite graph | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | [GFG](https://www.geeksforgeeks.org/bipartite-graph/) |
+| 200. Number of Islands | [LeetCode](https://leetcode.com/problems/number-of-islands/) | [GFG](https://www.geeksforgeeks.org/find-the-number-of-islands-using-dfs/) |
+| Topological sort (only for DAG) | — | [GFG](https://www.geeksforgeeks.org/topological-sorting/) |
