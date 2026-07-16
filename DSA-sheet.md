@@ -102,3 +102,8 @@
 | Bipartite graph | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | [GFG](https://www.geeksforgeeks.org/bipartite-graph/) |
 | 200. Number of Islands | [LeetCode](https://leetcode.com/problems/number-of-islands/) | [GFG](https://www.geeksforgeeks.org/find-the-number-of-islands-using-dfs/) |
 | Topological sort (only for DAG) | — | [GFG](https://www.geeksforgeeks.org/topological-sorting/) |
+| 207. Course Schedule | [LeetCode](https://leetcode.com/problems/course-schedule/) | [GFG](https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/) |
+| 210. Course Schedule II | [LeetCode](https://leetcode.com/problems/course-schedule-ii/) | [GFG](https://www.geeksforgeeks.org/find-course-schedule-ii/) |
+| 994. Rotting Oranges | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | [GFG](https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/) |
+| Floyd Warshall Algorithm | — | [GFG](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/) |
+| Dijkstra Algorithm | [LeetCode](https://leetcode.com/problems/network-delay-time/) | [GFG](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/) |
