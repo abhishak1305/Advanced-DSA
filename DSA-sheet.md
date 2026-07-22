@@ -107,3 +107,8 @@
 | 994. Rotting Oranges | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | [GFG](https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/) |
 | Floyd Warshall Algorithm | — | [GFG](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/) |
 | Dijkstra Algorithm | [LeetCode](https://leetcode.com/problems/network-delay-time/) | [GFG](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/) |
+| Shortest Distance in a Binary Maze | — | [GFG](https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/) |
+| Replace O's with X's | — | [GFG](https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/) |
+| 51. N-Queens | [LeetCode](https://leetcode.com/problems/n-queens/) | [GFG](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/) |
+| 36. Valid Sudoku | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | [GFG](https://www.geeksforgeeks.org/check-if-given-sudoku-board-configuration-is-valid-or-not/) |
+| Kruskal's algorithm | — | [GFG](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/) |
