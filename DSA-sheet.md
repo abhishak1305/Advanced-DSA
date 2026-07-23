@@ -112,3 +112,5 @@
 | 51. N-Queens | [LeetCode](https://leetcode.com/problems/n-queens/) | [GFG](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/) |
 | 36. Valid Sudoku | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | [GFG](https://www.geeksforgeeks.org/check-if-given-sudoku-board-configuration-is-valid-or-not/) |
 | Kruskal's algorithm | — | [GFG](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/) |
+| Minimum Spanning Tree (Prim's algorithm) | — | [GFG](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/) |
+| The Knight's tour problem | — | [GFG](https://www.geeksforgeeks.org/the-knights-tour-problem/) |
